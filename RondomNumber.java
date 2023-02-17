@@ -1,3 +1,4 @@
+//Rondaom Number genrator
 public class RondomNumber {
     public static void main(String[] args) {
         int min = 1;
