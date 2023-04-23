@@ -1,4 +1,4 @@
-//Rondaom Number Genrator after 5 seconds
+//Rondaom Number Genrator after 5 sec
 public class RondomNumber {
     public static void main(String[] args) {
         int min = 1;
